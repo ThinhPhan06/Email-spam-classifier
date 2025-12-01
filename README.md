@@ -1,7 +1,7 @@
 # 📧 Email Spam Classifier
 
 A Machine Learning project for email spam classification using Naive Bayes algorithm with TF-IDF transformation and SMOTE data balancing techniques.
-
+Dataset : [https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv]
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
