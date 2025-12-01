@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📧 Email Spam Classifier
 
 A Machine Learning project for email spam classification using Naive Bayes algorithm with TF-IDF transformation and SMOTE data balancing techniques.
@@ -187,4 +186,4 @@ Made with ❤️ and Python
 </div>
 =======
 # Email-spam-classifier
->>>>>>> 0addbd72e239f5f917d824acc7dc6d0f80f44ff8
+
