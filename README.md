@@ -184,6 +184,5 @@ Give a ⭐️ if this project helped you!
 <div align="center">
 Made with ❤️ and Python
 </div>
-=======
-# Email-spam-classifier
+
 
