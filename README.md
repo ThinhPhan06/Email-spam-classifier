@@ -173,7 +173,6 @@ This project is released under the [MIT License](LICENSE).
 **Thinh Phan**
 
 - GitHub: [@ThinhPhan06](https://github.com/ThinhPhan06)
-- Email: thinhphucphan.angiang@gmail.com
 
 ## ⭐ Show your support
 
